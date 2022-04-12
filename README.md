@@ -1,7 +1,8 @@
 # Arduino-driver-for-TR333T-7-segment-display
 A basic driver with codes that you can insert into the code to display numbers and text.
 The alphanumerical codes are contained within the .ino file, you just need to follow
-the pinout diagram here.
+the pinout diagram here. (To see it properly you need to either download the file,
+view it in Raw mode or view it in blame mode.
 
   F-   -5V
   G-   -A
